@@ -1,4 +1,5 @@
-### Hi there 👋
+![k-on-guitar](https://user-images.githubusercontent.com/77025979/172017706-be5f0cdf-d7fa-4a66-ad27-0d26e10d4774.gif)
+
 
 <!--
 **Beefeuteer/Beefeuteer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
